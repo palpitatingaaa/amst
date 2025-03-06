@@ -34,6 +34,8 @@ cd AMST
  python tools/train.py configs/amst/amst_cityscapes-1024x1024.py
 
 ## 🚀 Test
+
 🎯 Test with a single GPU
+
  python tools/test.py configs/amst/amst_cityscapes-1024x1024.py
 
