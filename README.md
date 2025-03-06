@@ -15,7 +15,9 @@ This repository is built upon [segmentation](https://github.com/open-mmlab/mmseg
 
 ### 2️⃣ Installation
 git clone 
+
 cd amst
+
 pip install -r requirements.txt
 
 ##  Data Preparation
