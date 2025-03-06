@@ -20,14 +20,17 @@ pip install -r requirements.txt
 
 ##  Data Preparation
 1.Download the offical dataset data
+
 2.Process data according to the official [MMSEG documentation](https://mmsegmentation.readthedocs.io/zh-cn/latest/user_guides/2_dataset_prepare.html)
 
 ## 🚀 Train
 
 🎯 Navigate to the project directory
+
 cd AMST
 
 🎯 Train with a single GPU
+
  python tools/train.py configs/amst/amst_cityscapes-1024x1024.py
 
 ## 🚀 Test
